@@ -14,6 +14,8 @@ const Wrapper = styled.div`
 
 const Left = styled.div`
  flex: 1; 
+ align-items: center;
+ display: flex;
 `;
 const Language = styled.span`
   font-size: 14px;
@@ -37,8 +39,14 @@ const Center = styled.div`
   text-align: center;
 `;
 
-const Logo = styled.h1`
+const Logo1 = styled.h1`
   font-weight: bold;
+  color: darkgray;
+`;
+
+const Logo2 = styled.h1`
+  font-weight: bold;
+  color: limegreen;
 `;
 
 const Right = styled.div`
@@ -68,7 +76,8 @@ function Navbar() {
             </Left>
             <Center>
             
-              <Logo>Bites and Bytes</Logo>
+              <Logo1>Bites & </Logo1>
+              <Logo2>Bytes</Logo2>
             
             </Center>
             <Right>
