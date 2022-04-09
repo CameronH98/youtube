@@ -76,7 +76,7 @@ function Navbar() {
             </Left>
             <Center>
             
-              <Logo1>Bites & </Logo1>
+              <Logo1>Bits & </Logo1>
               <Logo2>Bytes</Logo2>
             
             </Center>

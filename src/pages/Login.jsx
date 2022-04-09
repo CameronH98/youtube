@@ -7,7 +7,7 @@ const Container = styled.div`
       rgba(255, 255, 255, 0.349),
       rgba(255, 255, 255, 0.5)
     ),
-      url("https://i.ibb.co/WfVQP5d/Artboard-1.jpg")
+      url("https://i.ibb.co/gwxZ9yx/Artboard-1-Login.jpg")
       center;
     background-size: cover;
     display: flex;
